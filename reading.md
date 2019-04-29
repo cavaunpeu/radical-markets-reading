@@ -159,6 +159,7 @@ not the book.
 ## Seminar 12: Activism and Government
 
 Read at least two of the below:
+
 - [ ] Matthew Yglesias, “Democrats push for a new era of antitrust enforcement, explained” on
 VOX
 - [ ] Sarah Lyall in the NY Times, “Who Strikes Fear Into Silicon Valley? Margrethe Vestager,
